@@ -2070,6 +2070,7 @@ body {
 }
 .cid-r7YO8oDfzj .card-title {
   text-align: right;
+  color: #01032d;
 }
 .cid-r7YO8oDfzj .mbr-section-title {
   text-align: right;
@@ -2103,10 +2104,14 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-r7SOhrYHGG .btn-social,
+.cid-r7SOhrYHGG .mbr-section-title {
+  color: #01032d;
+}
 .cid-r7SObv880x {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #01032d;
 }
 @media (max-width: 767px) {
   .cid-r7SObv880x .content {
